@@ -7,8 +7,8 @@ Clone and setup the project.
     ```json
     {
         "message": "string",
-        "data": [], // array or object
-        "errors": [] // array
+        "data": [],
+        "errors": []
     }
     ```
 - Implement the strategy in `App\Http\Controllers\UserController` class.
