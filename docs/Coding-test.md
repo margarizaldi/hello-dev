@@ -3,7 +3,7 @@
 Clone and setup the project.
 
 ## Task 1
-- Make a good strategy so that all controllers can return consistent structure of json responses following this structure:
+- Make a good strategy so that all controllers can return consistent json responses following this structure:
     ```json
     {
         "message": "string",
